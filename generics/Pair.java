@@ -1,4 +1,4 @@
-// package generics;
+package generics;
 
 public class Pair<T, S> {
     
